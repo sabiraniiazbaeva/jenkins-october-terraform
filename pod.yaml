@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: hello-world
+spec:
+  containers:
+  - image: sabiraniiazbaeva/hello-world:1.0
+    name: hello-world
