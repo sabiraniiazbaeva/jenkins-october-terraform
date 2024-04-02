@@ -2,7 +2,7 @@ podname: hello-world
 
 repository:
   image: "sabiraniiazbaeva/hello-world"
-  tag: "1.0.0"
+  tag: "1.0"
 
 service:
   name: hello-world
